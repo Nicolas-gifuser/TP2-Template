@@ -98,6 +98,7 @@
                 "Des bactéries peuvent survivre dans des environnements extrêmement acides.",
                 "Certains organismes marins vivent près des cheminées hydrothermales sans dépendre directement de la lumière du Soleil.",
                 "Les champignons peuvent créer des réseaux souterrains reliant les racines de différentes plantes."
+
             };
 
             int premierFaitDuNiveau = niveauInusité * 10;
